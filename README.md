@@ -1,7 +1,12 @@
 # BigDataHW2
 
-Скриншот YARN
-<img width="1280" alt="image" src="https://github.com/LadaNikitina/BigDataHW2/assets/23546579/2c246c69-723f-41a0-afaa-266806cdea63">
-![image](https://github.com/LadaNikitina/BigDataHW2/assets/23546579/d88840b7-e0ca-4c85-887d-ec130598f35d)
+Все скриншоты приложены в Readme репозитория.
+
+## Задание 1 - скрины запуска спарк-сессии
+
+Скриншоты YARN
+![image](https://github.com/LadaNikitina/BigDataHW2/assets/23546579/19151c59-bedc-4302-a0f6-a6c947838f51)
+![image](https://github.com/LadaNikitina/BigDataHW2/assets/23546579/3ae291ac-2ec2-426a-8218-9f8baba76e5b)
 
 Скрин UI приложения spark 
+![image](https://github.com/LadaNikitina/BigDataHW2/assets/23546579/104345a8-7005-42e7-80b1-00324da309b6)
